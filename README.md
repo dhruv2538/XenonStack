@@ -295,3 +295,10 @@ To learn more about Next.js, take a look at the following resources:
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+Some Snapshots of the Course Selling Website
+![Screenshot (130)](https://github.com/dhruv2538/XenonStack/assets/96339459/d327f531-367c-4f7e-8cc9-ece2ce919d92)
+![Screenshot (128)](https://github.com/dhruv2538/XenonStack/assets/96339459/a2532447-aff1-419a-8c72-a9473ae6c9d7)
+![Screenshot (129)](https://github.com/dhruv2538/XenonStack/assets/96339459/973c864d-beb8-4b14-9b1b-edaee681d058)
+
